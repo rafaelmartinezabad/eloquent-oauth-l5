@@ -2,7 +2,7 @@
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
-use Illuminate\Support\Composer as Composer51;
+use Illuminate\Foundation\Composer as Composer51;
 use Illuminate\Support\Composer as Composer52;
 use Symfony\Component\Console\Input\InputOption;
 
